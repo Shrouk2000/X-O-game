@@ -1,0 +1,32 @@
+.game{
+    
+    text-align: center;
+    width:255px;
+    margin: auto;
+    color:#fff;
+    
+   
+}
+.dashboard{
+    background-color: rgba(8, 97, 98, 0.878);
+   padding:10px;
+   margin:10px;
+   
+}
+
+span{
+    text-align: center;
+    font-size: 30px;
+}
+.square{
+    background-color: rgba(8, 97, 98, 0.878);
+    font-size: 20px;
+    width:80px;
+    height:80px;
+    float:left;
+    margin: 2px;
+}
+.square:hover{
+    background-color: black;
+    cursor: pointer;
+}
